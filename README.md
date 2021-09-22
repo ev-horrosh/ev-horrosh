@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ev
+- 👀 I’m interested in Data Science and Statistical Analysis
+- 🌱 I’m currently a student at Lambda School
+- 💞️ I’m looking to connect with like-minded individuals
+- 📫 Lets [connect](horoshuhin@gmail.com)
