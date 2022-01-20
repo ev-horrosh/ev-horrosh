@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ev
-- 👀 I’m interested in Data Science and Statistical Analysis
-- 🌱 I’m currently a student at Lambda School
-- 💞️ I’m looking to connect with like-minded individuals
+- 👀 I’m interested in Natural Language Processing and Deep Learning
+- 🌱 I’m currently a student at BloomTech(FKA Lambda School)
 - 📫 Lets [connect](horoshuhin@gmail.com)
