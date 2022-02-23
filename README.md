@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Ev
 - 👀 I’m interested in Natural Language Processing and Deep Learning
-- 🌱 I’m currently a student at BloomTech(FKA Lambda School)
+- 🌱 I’m currently MLOps on UnderDogs-Devs
 - 📫 Lets [connect](horoshuhin@gmail.com)
