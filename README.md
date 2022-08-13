@@ -1,4 +1,10 @@
-- 👋 Hi, I’m Ev
-- 👀 I’m interested in Natural Language Processing and Deep Learning
-- 🌱 I’m currently MLOps on UnderDogs-Devs
-- 📫 Lets [connect](horoshuhin@gmail.com)
+👋 Hi, I’m Ev. I use Human Learning to do Machine Learning.
+
+⚡What makes me excited:
+
+- Software Engineering
+- Data Engineering
+- Machine Learning
+- Natural Language Processing
+
+📫 Lets [connect](horoshuhin@gmail.com)
